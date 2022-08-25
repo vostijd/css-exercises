@@ -1,5 +1,6 @@
 /* styles.css */
-p {background-color: rgb(248, 157, 134); font-family: Verdana, "DejaVu Sans", sans-serif;
+p {background-color: rgb(248, 157, 134); font-family: Verdana, "DejaVu Sans", sans-serif; 
+    font-size: 24px;
 }
 #number2 {
     font-size: 36px; color: rgb(0, 0, 255)
