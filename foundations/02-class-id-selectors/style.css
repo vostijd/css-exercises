@@ -1,12 +1,15 @@
 /* styles.css */
-.odd {background-color: rgb(248, 157, 134); font-family: Verdana, "DejaVu Sans", sans-serif;
+.odd {background-color: rgb(248, 157, 134); 
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #number2 {
-    font-size: 36px; color: rgb(0, 0, 255)
+    font-size: 36px; 
+    color: rgb(0, 0, 255)
  }
  .number3 {
     font-size: 24px;
  }
 #number4 {
-background-color: rgba(183, 240, 183, 0.938); font-weight: 700;
+background-color: rgba(183, 240, 183, 0.938); 
+font-weight: 700;
  }
